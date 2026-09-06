@@ -1,2 +1,2 @@
-Author name 
+Author name <br>
 Avatansh Chandel
